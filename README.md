@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a **Web Development** Project at ***Qurate Business Intelligence***.
+- 🔭 I’m currently exploring various aspects of **Web Development**.
 - 🌱 I’m currently learning **Django** and **Marketing**.
 - 👯 I’m looking to collaborate on any **Web Development**, **Software Development** or **Android Development** Project.
 - 🤔 I’m looking for someone to learn **UI/UX** with.
