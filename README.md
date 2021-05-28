@@ -17,4 +17,4 @@ Here are some ideas to get you started:-->
 
 ### Social Handles
 
-[Linkedin](https://www.linkedin.com/in/DevMittal04/) | [GitHub](https://github.com/DevMittal04) | [Twitter](https://twitter.com/DevMittal04)
+[Linkedin](https://www.linkedin.com/in/DevMittal04/) | [GitHub](https://github.com/DevMittal04) | [Twitter](https://twitter.com/DevMittal04) | [Dev.to](https://dev.to/devmittal04)
