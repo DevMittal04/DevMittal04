@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
 [Linkedin](https://www.linkedin.com/in/DevMittal04/) | [GitHub](https://github.com/DevMittal04) | [Twitter](https://twitter.com/DevMittal04) | [Dev.to](https://dev.to/devmittal04)
 
 
-[![Dev Mittal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMittal04&show_icons=true&theme=chartreuse-dark&count_private=true&hide=issues&line_height=24)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMittal04&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Dev Mittal's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMittal04&show_icons=true&theme=chartreuse-dark&count_private=true&hide=issues&line_height=24)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMittal04&layout=compact&theme=chartreuse-dark&card_width=250px)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevMittal04&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 #### Profile Views:
